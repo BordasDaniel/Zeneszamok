@@ -25,7 +25,7 @@ namespace Zeneszamok.Models
 
         public override string ToString()
         {
-            return $"- {Nev} ({Nemzetiseg})";
+            return $"- {Id}. {Nev} ({Nemzetiseg})";
         }
 
     }
