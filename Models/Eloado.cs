@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Zeneszamok.Models
 {
-    internal class Eloado
+    public class Eloado
     {
         public int Id { get; set; }
         public string Nev { get; set; }
